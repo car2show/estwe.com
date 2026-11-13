@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://estwe.com
+Sitemap: https://estwe.com/sitemap.xml
